@@ -6,4 +6,5 @@ if (thing == "DONGLES") alert("iPhone 7 has many Dongles");
 if( thing.indexOf('CAIDEN') >= 0)alert("Caiden was here");
 if( thing.indexOf('JOEY') >= 0)alert("Joey was here");
 if( thing.indexOf('Q','P') >= 0)alert("Contains a Q or a P");
+if( thing.indexOf('math'); >= 0)ting;
 else alert(ting);
