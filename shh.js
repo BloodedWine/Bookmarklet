@@ -5,4 +5,5 @@ if (thing == "PEARSON") window.open("https://accounts.google.com/o/saml2/initsso
 if (thing == "DONGLES") alert("iPhone 7 has many Dongles");
 if( thing.indexOf('CAIDEN') >= 0)alert("Caiden was here");
 if( thing.indexOf('JOEY') >= 0)alert("Joey was here");
+if( thing.indexOf('Q','P') >= 0)alert("Contains a Q or a P");
 else alert(ting);
